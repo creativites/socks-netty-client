@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<config>
+	<local_port>13200</local_port>
+	<remotes>
+		<!--<remote>-->
+		<!--	<ip_addr>127.0.0.1</ip_addr>-->
+		<!--	<port>13100</port>-->
+		<!--	<method>aes-256-cfb</method>-->
+		<!--	<password>qq1015828419</password>-->
+		<!--</remote>-->
+		<remote>
+			<ip_addr>120.48.77.196</ip_addr>
+			<port>13100</port>
+			<method>aes-256-cfb</method>
+			<password>qq1015828419</password>
+		</remote>
+	</remotes>
+</config>
